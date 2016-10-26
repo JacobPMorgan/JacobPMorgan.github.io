@@ -1,0 +1,20 @@
+body{
+  background-color: black;
+}
+.CS{
+  padding-top: 100px;
+  font-size:100px;
+  color: white;
+  font-family: fantasy;
+
+}
+a{
+  font-size: 25px;
+  text-decoration: none;
+  color: gray;
+  font-family: fantasy;
+justify-content: center;
+}
+a:hover{
+  color: white;
+}

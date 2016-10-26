@@ -1,0 +1,129 @@
+
+html{
+}
+html, body,footer {
+
+
+
+margin:0;
+
+padding:0;
+
+
+
+}
+a{
+  font-size: 20px;
+  margin-right: 10px;
+  margin-top: 10px;
+  text-decoration: none;
+  color: indigo;
+  margin:0;
+
+  padding:0;
+
+}
+a:hover{
+  color:white;
+
+}
+
+head{
+}
+.words{
+  color: blue;
+  font-size: 40px;
+  float: none;
+  background-color:transparent;
+  border-bottom: 1px solid gray;
+height: 55px;
+
+}
+.Head{
+  border-bottom: 1px solid gray;
+  width: 100%;
+  justify-content: center;
+  font-family: fantasy;
+  align-items: center;
+}
+.space{
+  width: 100%;
+  position: relative;
+  height: 400px;
+  margin-bottom: 90px;
+}
+head a{
+background-color:gray;
+position: absolute;
+
+margin:0 ;
+justify-content: center;
+font-family: fantasy;
+color:blue;
+margin-top: 0;
+padding-bottom: 0px;
+
+}
+body{
+  background-image: url("Comp.jpg");
+    font-family: impact;
+    font-size: 25px;
+  background-size: cover;
+    justify-content: center;
+    text-align: center;
+
+  }
+.Body{
+  font-family: impact;
+  font-size: 20px;
+  justify-content: center;
+  text-align: center;
+background-color: black;
+padding-bottom: 0px;
+margin-bottom: 0px;
+width: 100%;
+margin:0px;
+position:absolute;
+  bottom:-0px;
+}
+.BodyW{
+    max-width: 800px;
+    position: relative;
+    text-align: center;
+    color: blue;
+  text-align: center;
+  margin: auto;
+
+
+}
+.ContactUs{
+}
+.ContactUs a{
+  color: gray;
+  text-decoration: none;
+  font-size: 20px;
+  margin-left: 10px;
+  margin-top: 35px;
+  float: left;
+}
+.ContactUs a:hover{
+  color:white;
+
+}
+
+
+
+}
+.OurWorks{
+}
+.OurWorks a{
+  float: right;
+  font-size: 20px;
+  margin-right: 10px;
+  margin-top: 35px;
+  text-decoration: none;
+  color: gray;
+}
+.OurWorks a:hover{
+  color:white;
+}
